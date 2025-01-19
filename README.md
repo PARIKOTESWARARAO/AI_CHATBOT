@@ -1,1 +1,15 @@
 # AI_CHATBOT
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : PARI KOTESWARA RAO
+
+**INTERN ID** : CT6WKCQ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : JANUARY 5th,2024 to FEBRUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/04c0d8a5-c30d-4b23-b4a7-9a75e11d50c7)
